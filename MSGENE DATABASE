@@ -1,0 +1,880 @@
+#http://www.msgene.org/default.asp
+			<option value="104">ABCG2</option>
+
+			<option value="-1">-- Select --</option><option value="620">ACTR3</option>
+
+			<option value="43">ADAM23</option>
+
+			<option value="658">ADAMTS12</option>
+
+			<option value="607">ADCY2</option>
+
+			<option value="331">ADCYAP1</option>
+
+			<option value="542">AGAP2</option>
+
+			<option value="711">AGT</option>
+
+			<option value="756">AHI1</option>
+
+			<option value="45">ALK</option>
+
+			<option value="741">ALPK2</option>
+
+			<option value="46">APOB</option>
+
+			<option value="330">APOE</option>
+
+			<option value="332">AQP4</option>
+
+			<option value="776">ARHGEF3</option>
+
+			<option value="572">ATP7B</option>
+
+			<option value="78">ATXN7</option>
+
+			<option value="555">B3GALT5</option>
+
+			<option value="763">BACH2</option>
+
+			<option value="674">BANK1</option>
+
+			<option value="788">BATF</option>
+
+			<option value="568">BCL2</option>
+
+			<option value="47">BCL2L11</option>
+
+			<option value="677">BLK</option>
+
+			<option value="654">BRPF3</option>
+
+			<option value="79">BSN</option>
+
+			<option value="80">BTLA</option>
+
+			<option value="627">BTNL2</option>
+
+			<option value="48">BZW1</option>
+
+			<option value="560">C16orf75</option>
+
+			<option value="554">C19orf48</option>
+
+			<option value="786">C1orf106</option>
+
+			<option value="793">C2orf69</option>
+
+			<option value="81">C3orf67</option>
+
+			<option value="708">C4A</option>
+
+			<option value="510">C6orf10</option>
+
+			<option value="762">CARD11</option>
+
+			<option value="689">CASP8</option>
+
+			<option value="4">CASP9</option>
+
+			<option value="656">CAV1</option>
+
+			<option value="83">CBLB</option>
+
+			<option value="84">CCBP2</option>
+
+			<option value="678">CCL21</option>
+
+			<option value="85">CCR2</option>
+
+			<option value="86">CCR3</option>
+
+			<option value="87">CCR5</option>
+
+			<option value="628">CCR6</option>
+
+			<option value="548">CD207</option>
+
+			<option value="333">CD226</option>
+
+			<option value="546">CD24</option>
+
+			<option value="50">CD28</option>
+
+			<option value="340">CD40</option>
+
+			<option value="709">CD46</option>
+
+			<option value="5">CD48</option>
+
+			<option value="6">CD52</option>
+
+			<option value="7">CD58</option>
+
+			<option value="624">CD6</option>
+
+			<option value="88">CD80</option>
+
+			<option value="89">CD86</option>
+
+			<option value="49">CD8A</option>
+
+			<option value="543">CDC37</option>
+
+			<option value="552">CEP192</option>
+
+			<option value="752">CHST12</option>
+
+			<option value="319">CIITA</option>
+
+			<option value="320">CLEC16A</option>
+
+			<option value="764">CLECL1</option>
+
+			<option value="52">CLK1</option>
+
+			<option value="334">CLUL1</option>
+
+			<option value="557">CNR1</option>
+
+			<option value="696">CRHR1</option>
+
+			<option value="700">CSMD1</option>
+
+			<option value="53">CTLA4</option>
+
+			<option value="576">CTNNA2</option>
+
+			<option value="608">CTNND2</option>
+
+			<option value="8">CTSS</option>
+
+			<option value="105">CXCL1</option>
+
+			<option value="108">CXCL10</option>
+
+			<option value="109">CXCL11</option>
+
+			<option value="110">CXCL13</option>
+
+			<option value="106">CXCL2</option>
+
+			<option value="107">CXCL9</option>
+
+			<option value="682">CXCR4</option>
+
+			<option value="795">CXCR5</option>
+
+			<option value="651">CYP24A1</option>
+
+			<option value="271">CYP27B1</option>
+
+			<option value="659">CYP2R1</option>
+
+			<option value="652">CYP7A1</option>
+
+			<option value="9">DARC</option>
+
+			<option value="217">DBC1</option>
+
+			<option value="335">DCC</option>
+
+			<option value="629">DCDC2</option>
+
+			<option value="771">DDAH1</option>
+
+			<option value="773">DIAPH1</option>
+
+			<option value="746">DKKL1</option>
+
+			<option value="769">DLEU1</option>
+
+			<option value="556">DMD</option>
+
+			<option value="22">DNAJC6</option>
+
+			<option value="578">DOCK4</option><option value="90">DOCK3</option>
+
+
+
+			<option value="54">EIF2AK2</option>
+
+			<option value="91">EIF2B5</option>
+
+			<option value="736">ELMO1</option>
+
+			<option value="758">EOMES</option>
+
+			<option value="675">ERAP1</option>
+
+			<option value="630">ESR1</option>
+
+			<option value="10">EVI5</option>
+
+			<option value="760">EXTL2</option>
+
+			<option value="567">FAM164A</option>
+
+			<option value="11">FAM69A</option>
+
+			<option value="55">FAP</option>
+
+			<option value="12">FASLG</option>
+
+			<option value="579">FBXO47</option>
+
+			<option value="13">FCGR2A</option>
+
+			<option value="14">FCGR3A</option>
+
+			<option value="15">FCGR3B</option>
+
+			<option value="16">FCRL3</option>
+
+			<option value="569">FDX1L</option>
+
+			<option value="92">FHIT</option>
+
+			<option value="617">FOXD4L1</option>
+
+			<option value="571">GAP43</option>
+
+			<option value="111">GC</option>
+
+			<option value="734">GHRL</option>
+
+			<option value="733">GHSR</option>
+
+			<option value="631">GLO1</option>
+
+			<option value="299">GPC5</option>
+
+			<option value="693">GPC6</option>
+
+			<option value="93">GPD1L</option>
+
+			<option value="797">GPR65</option>
+
+			<option value="732">GRIK3</option>
+
+			<option value="94">GRM7</option>
+
+			<option value="687">GRN</option>
+
+			<option value="710">GSK3B</option>
+
+			<option value="17">GSTM1</option>
+
+			<option value="18">GSTM3</option>
+
+			<option value="690">GTF2H4</option>
+
+			<option value="803">GWA_10p11.22</option>
+
+			<option value="673">GWA_10q11.21</option>
+
+			<option value="799">GWA_11q21</option>
+
+			<option value="804">GWA_11q23.3</option>
+
+			<option value="301">GWA_13q31.3</option>
+
+			<option value="621">GWA_14q32</option>
+
+			<option value="806">GWA_2p21</option>
+
+			<option value="704">GWA_2p25.1</option>
+
+			<option value="705">GWA_2q14.2</option>
+
+			<option value="802">GWA_3p24.1</option>
+
+			<option value="801">GWA_3q12.3</option>
+
+			<option value="698">GWA_3q24</option>
+
+			<option value="699">GWA_4q34.3</option>
+
+			<option value="735">GWA_5p13.1</option>
+
+			<option value="541">GWA_6p21.32</option>
+
+			<option value="800">GWA_6q23.3</option>
+
+			<option value="805">GWA_7p21.3</option>
+
+			<option value="702">GWA_9p22.2</option>
+
+			<option value="547">H6PD</option>
+
+			<option value="575">HAVCR1</option>
+
+			<option value="679">HERC1</option>
+
+			<option value="632">HFE</option>
+
+			<option value="777">HHEX</option>
+
+			<option value="667">HLA</option>
+
+			<option value="511">HLA-DQA1</option>
+
+			<option value="697">HLA-DRA</option>
+
+			<option value="512">HLA-DRB1</option>
+
+			<option value="670">HLA-F</option>
+
+			<option value="56">HNMT</option>
+
+			<option value="633">HSPA1A</option>
+
+			<option value="634">HSPA1B</option>
+
+			<option value="635">HSPA1L</option>
+
+			<option value="57">HSPD1</option>
+
+			<option value="437">ICAM1</option>
+
+			<option value="778">ICAM3</option>
+
+			<option value="59">ICOS</option>
+
+			<option value="438">IFI30</option>
+
+			<option value="58">IFIH1</option>
+
+			<option value="657">IFNA17</option>
+
+			<option value="636">IFNGR1</option>
+
+			<option value="508">IGSF3</option>
+
+			<option value="19">IL10</option>
+
+			<option value="680">IL12A</option>
+
+			<option value="731">IL15</option>
+
+			<option value="730">IL17B</option>
+
+			<option value="688">IL18R1</option>
+
+			<option value="61">IL1A</option>
+
+			<option value="62">IL1B</option>
+
+			<option value="616">IL1F10</option>
+
+			<option value="610">IL1F5</option>
+
+			<option value="609">IL1F6</option>
+
+			<option value="614">IL1F7</option>
+
+			<option value="660">IL1F8</option>
+
+			<option value="615">IL1F9</option>
+
+			<option value="63">IL1R1</option>
+
+			<option value="728">IL1RL2</option>
+
+			<option value="112">IL2</option>
+
+			<option value="114">IL21</option>
+
+			<option value="565">IL21R</option>
+
+			<option value="653">IL22RA2</option>
+
+			<option value="20">IL23R</option>
+
+			<option value="727">IL28RA</option>
+
+			<option value="233">IL2RA</option>
+
+			<option value="726">IL31</option>
+
+			<option value="725">IL32</option>
+
+			<option value="729">IL36A</option>
+
+			<option value="95">IL5RA</option>
+
+			<option value="1">IL7R</option>
+
+			<option value="113">IL8</option>
+
+			<option value="65">IL8RB</option>
+
+			<option value="21">INADL</option>
+
+			<option value="115">IRF2</option>
+
+			<option value="66">ITGA4</option>
+
+			<option value="665">ITGB2</option>
+
+			<option value="222">KANK1</option>
+
+			<option value="67">KCNH7</option>
+
+			<option value="798">KCNMA1</option>
+
+			<option value="737">KIAA0564</option>
+
+			<option value="68">KIF1A</option>
+
+			<option value="558">KIF21B</option>
+
+			<option value="694">KIR3DL3</option>
+
+			<option value="695">KIR3DP1</option>
+
+			<option value="279">KLRB1</option>
+
+			<option value="724">LEP</option>
+
+			<option value="723">LEPR</option>
+
+			<option value="623">LOC340094</option>
+
+			<option value="613">LOC440839</option>
+
+			<option value="637">LST1</option>
+
+			<option value="537">LTA</option>
+
+			<option value="96">LTF</option>
+
+			<option value="744">MAF</option>
+
+			<option value="790">MALT1</option>
+
+			<option value="761">MAMSTR</option>
+
+			<option value="766">MANBA</option>
+
+			<option value="774">MAP3K14</option>
+
+			<option value="666">MAP3K3</option>
+
+			<option value="765">MAPK1</option>
+
+			<option value="583">MAPT</option>
+
+			<option value="336">MBP</option>
+
+			<option value="691">MEFV</option>
+
+			<option value="722">MERTK</option>
+
+			<option value="721">MGAT1</option>
+
+			<option value="69">MGAT5</option>
+
+			<option value="638">MICA</option>
+
+			<option value="639">MICB</option>
+
+			<option value="574">MIF</option>
+
+			<option value="720">MIR146A</option>
+
+			<option value="686">MMEL1</option>
+
+			<option value="640">MOG</option>
+
+			<option value="681">MPHOSPH9</option>
+
+			<option value="783">MPV17L2</option>
+
+			<option value="513">MT-ATP6</option>
+
+			<option value="514">MT-CO2</option>
+
+			<option value="515">MT-CO3</option>
+
+			<option value="516">MT-COI</option>
+
+			<option value="517">MT-CYB</option>
+
+			<option value="518">MT-DLOOP</option>
+
+			<option value="24">MTHFR</option>
+
+			<option value="519">MT-L2</option>
+
+			<option value="521">MT-ND1</option>
+
+			<option value="522">MT-ND2</option>
+
+			<option value="523">MT-ND3</option>
+
+			<option value="524">MT-ND4</option>
+
+			<option value="533">MT-ND4L</option>
+
+			<option value="520">MTND5</option>
+
+			<option value="532">MT-ND6</option>
+
+			<option value="525">MT-OHR</option>
+
+			<option value="526">MT-RNR1</option>
+
+			<option value="527">MT-RNR2</option>
+
+			<option value="528">MT-TG</option>
+
+			<option value="529">MT-TI</option>
+
+			<option value="530">MT-TR</option>
+
+			<option value="531">MT-TT</option>
+
+			<option value="743">MYB</option>
+
+			<option value="742">MYC</option>
+
+			<option value="97">MYD88</option>
+
+			<option value="789">MYNN</option>
+
+			<option value="589">NAA15</option>
+
+			<option value="60">NAB1</option>
+
+			<option value="739">NCF4</option>
+
+			<option value="748">NCOA5</option>
+
+			<option value="535">NCRNA00171</option>
+
+			<option value="779">NDFIP1</option>
+
+			<option value="592">NDUFA2</option>
+
+			<option value="605">NDUFA3</option>
+
+			<option value="593">NDUFA4</option>
+
+			<option value="594">NDUFA5</option>
+
+			<option value="606">NDUFA6</option>
+
+			<option value="603">NDUFA7</option>
+
+			<option value="599">NDUFA9</option>
+
+			<option value="600">NDUFB10</option>
+
+			<option value="595">NDUFB2</option>
+
+			<option value="588">NDUFB4</option>
+
+			<option value="604">NDUFB7</option>
+
+			<option value="598">NDUFC2</option>
+
+			<option value="587">NDUFS1</option>
+
+			<option value="591">NDUFS4</option>
+
+			<option value="586">NDUFS5</option>
+
+			<option value="590">NDUFS6</option>
+
+			<option value="601">NDUFS7</option>
+
+			<option value="597">NDUFS8</option>
+
+			<option value="596">NDUFV1</option>
+
+			<option value="116">NFKB1</option>
+
+			<option value="641">NFKBIL1</option>
+
+			<option value="25">NGF</option>
+
+			<option value="668">none</option>
+
+			<option value="642">NOTCH4</option>
+
+			<option value="753">ODF3B</option>
+
+			<option value="685">OLIG3</option>
+
+			<option value="539">OR2T2</option>
+
+			<option value="540">OR4A47</option>
+
+			<option value="544">OS9</option>
+
+			<option value="719">OSM</option>
+
+			<option value="718">OSMR</option>
+
+			<option value="717">P2RX7</option>
+
+			<option value="26">PADI4</option>
+
+			<option value="337">PARD6G</option>
+
+			<option value="612">PAX8</option>
+
+			<option value="70">PDCD1</option>
+
+			<option value="27">PDE4B</option>
+
+			<option value="703">PDZRN4</option>
+
+			<option value="117">PF4V1</option>
+
+			<option value="809">PITPNM2</option>
+
+			<option value="747">PKIA</option>
+
+			<option value="663">PLA2G7</option>
+
+			<option value="3">PLCH2</option>
+
+			<option value="44">PLCL1</option>
+
+			<option value="751">PLCL2</option>
+
+			<option value="770">PLEK</option>
+
+			<option value="661">PNMT</option>
+
+			<option value="643">PNPLA1</option>
+
+			<option value="98">PPARG</option>
+
+			<option value="118">PPAT</option>
+
+			<option value="775">PRDX5</option>
+
+			<option value="644">PRL</option>
+
+			<option value="559">PRM1</option>
+
+			<option value="566">PRM2</option>
+
+			<option value="611">PSD4</option>
+
+			<option value="645">PSMB8</option>
+
+			<option value="563">PSMB9</option>
+
+			<option value="646">PSORS1C1</option>
+
+			<option value="28">PTAFR</option>
+
+			<option value="683">PTGER4</option>
+
+			<option value="509">PTGFRN</option>
+
+			<option value="29">PTGS2</option>
+
+			<option value="338">PTPN2</option>
+
+			<option value="30">PTPN22</option>
+
+			<option value="2">PTPRC</option>
+
+			<option value="807">PTPRK</option>
+
+			<option value="562">PTRF</option>
+
+			<option value="618">RABL2A</option>
+
+			<option value="716">RAC2</option>
+
+			<option value="551">RALGAPA1</option>
+
+			<option value="564">RGMA</option>
+
+			<option value="669">RGS1</option>
+
+			<option value="749">RGS14</option>
+
+			<option value="561">RGS7</option>
+
+			<option value="808">RMI2</option>
+
+			<option value="754">RNF213</option>
+
+			<option value="31">RPL5</option>
+
+			<option value="602">RPS28</option>
+
+			<option value="755">RPS6KB1</option>
+
+			<option value="784">RRAGD</option>
+
+			<option value="757">RREB1</option>
+
+			<option value="782">SAE1</option>
+
+			<option value="32">SELE</option>
+
+			<option value="33">SELL</option>
+
+			<option value="34">SELP</option>
+
+			<option value="577">SEMA3D</option>
+
+			<option value="291">SH2B3</option>
+
+			<option value="35">SH2D2A</option>
+
+			<option value="573">SH2D3A</option>
+
+			<option value="580">SIPA1L3</option>
+
+			<option value="36">SLAMF1</option>
+
+			<option value="72">SLC11A1</option>
+
+			<option value="785">SLC15A2</option>
+
+			<option value="73">SLC16A14</option>
+
+			<option value="647">SLC25A27</option>
+
+			<option value="750">SLC30A7</option>
+
+			<option value="549">SLC35C1</option>
+
+			<option value="619">SLC35F5</option>
+
+			<option value="71">SLC4A5</option>
+
+			<option value="780">SORBS2</option>
+
+			<option value="740">SOX8</option>
+
+			<option value="738">SP140</option>
+
+			<option value="119">SPARCL1</option>
+
+			<option value="74">SPAST</option>
+
+			<option value="120">SPP1</option>
+
+			<option value="545">ST6GALNAC3</option>
+
+			<option value="37">ST7L</option>
+
+			<option value="550">STAB2</option>
+
+			<option value="75">STAT1</option>
+
+			<option value="76">STAT4</option>
+
+			<option value="676">STEAP3</option>
+
+			<option value="38">STMN1</option>
+
+			<option value="792">SYK</option>
+
+			<option value="99">SYNPR</option>
+
+			<option value="772">TAGAP</option>
+
+			<option value="648">TAP1</option>
+
+			<option value="625">TAP2</option>
+
+			<option value="701">TBC1D2</option>
+
+			<option value="39">TGFB2</option>
+
+			<option value="581">THAP8</option>
+
+			<option value="794">TIMMDC1</option>
+
+			<option value="121">TLR1</option>
+
+			<option value="125">TLR10</option>
+
+			<option value="122">TLR2</option>
+
+			<option value="123">TLR3</option>
+
+			<option value="40">TLR5</option>
+
+			<option value="124">TLR6</option>
+
+			<option value="100">TLR9</option>
+
+			<option value="507">TNF</option>
+
+			<option value="715">TNFRSF10A</option>
+
+			<option value="714">TNFRSF10B</option>
+
+			<option value="713">TNFRSF10C</option>
+
+			<option value="712">TNFRSF10D</option>
+
+			<option value="655">TNFRSF11A</option>
+
+			<option value="41">TNFRSF1B</option>
+
+			<option value="102">TNFSF10</option>
+
+			<option value="791">TNFSF14</option>
+
+			<option value="745">TNKS</option>
+
+			<option value="103">TRAIP</option>
+
+			<option value="626">TREM2</option>
+
+			<option value="706">TRIB2</option>
+
+			<option value="585">TRIP10</option>
+
+			<option value="781">TTC34</option>
+
+			<option value="480">TYK2</option>
+
+			<option value="662">TYROBP</option>
+
+			<option value="759">UBASH3B</option>
+
+			<option value="584">VAV1</option>
+
+			<option value="671">VAV2</option>
+
+			<option value="42">VCAM1</option>
+
+			<option value="649">VIP</option>
+
+			<option value="570">WDR36</option>
+
+			<option value="767">WNT9B</option>
+
+			<option value="796">ZBTB46</option>
+
+			<option value="768">ZFP36L1</option>
+
+			<option value="707">ZGPAT</option>
+
+			<option value="684">ZMIZ1</option>
+
+			<option value="553">ZNF283</option>
+
+			<option value="672">ZNF433</option>
+
+			<option value="339">ZNF532</option>
+
+			<option value="582">ZNF567</option>
+
+			<option value="787">ZNF767</option>
+
+	</select>
