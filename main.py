@@ -2,7 +2,7 @@ import requests
 import json
 import re
 import time
-
+from fuzzywuzzy import fuzz
 
 def compared_loci2(element):
     """
@@ -145,6 +145,49 @@ def call_ncbi_vs_mthrgenes():
         if element in red_nome:
             print(element)
 
+#run_the_search2()
+def run_levenstein_on_gene_names():
+    with open('PMC6879814') as PMCfile:
+        texte = PMCfile.read()
+        texte = texte.split('\n')
+        texte = [element.split('\t')[0] for element in texte]
+        print(texte)
+        texte = [element.replace('†','') for element in texte]
+        texte = [element.replace('*', '') for element in texte]
 
-################################################SCRIPT######################################################################du
-run_the_search2()
+    with open('PMC6879814_clean','a+') as PMCfile:
+        for element in texte:
+            PMCfile.write(element + '\n')
+    with open('USCS_corespondanceeeeeeee') as mthr:
+        mthrtexte = mthr.read()
+        mthrtexte = mthrtexte.split('\n')
+        mthrtexte = [element.split(' ')[0] for element in mthrtexte]
+        mthrtexte = mthrtexte[1:]
+        print(mthrtexte)
+        print(texte)
+    for element in mthrtexte:
+        a = [fuzz.partial_ratio(element,yo) for yo in texte]
+        print(str(texte[a.index(max(a))]) + ' ' + element + ' ' + str(max(a)))
+
+
+################################################SCRIPT######################################################################
+
+
+with open('USCS_corespondanceeeeeeee') as mthr:
+    mthrtexte = mthr.read()
+    mthrtexte = mthrtexte.split('\n')
+    mthrtexte = [element.split('\t')[0] for element in mthrtexte]
+    mthrtexte = mthrtexte[1:]
+    print(mthrtexte)
+with open("GW_eqtl_results.txt") as bite:
+    bitos = bite.read()
+    bitos = bitos.split('\n')
+    print(bitos[1])
+    bitos = set(bitos[1:-2])
+    print(bitos)
+    bitos = [element.split('\t')[2] for element in bitos]
+    print(bitos)
+for element in mthrtexte:
+    if element in bitos:
+        print(element)
+print(len(bitos))

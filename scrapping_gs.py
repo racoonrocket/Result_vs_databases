@@ -105,8 +105,8 @@ def add_in_paper_repo(papername,year,author,cite,publi,link, maxouu):
   paper_repos_dict['Url of paper'].extend(link)
   print(paper_repos_dict)
   for element in paper_repos_dict:
-      if len(paper_repos_dict[element]) < maxouu:
-          paper_repos_dict[element] = ['not found'] * abs(maxouu-len(paper_repos_dict[element]))
+      if len(paper_repos_dict[element]) != maxouu:
+          paper_repos_dict[element] = ['not found'] * maxouu
 
 
   return pd.DataFrame(paper_repos_dict)
@@ -119,34 +119,38 @@ with open('USCS_corespondanceeeeeeee') as file:
     txt = txt[1:]
 
 for element in txt:
-    print(element)
-    # get url for the each page
-    url = "https://scholar.google.com/scholar?start={}&q=multiple+sclerosis+" + element
+    try:
+        print(element)
+        # get url for the each page
+        url = "https://scholar.google.com/scholar?start={}&q=Multiple+Scleros+" + element + '&oq='
 
-    # function for the get content of each page
-    doc = get_paperinfo(url)
+        # function for the get content of each page
+        doc = get_paperinfo(url)
+        with open('debugging','a+') as debugfile:
+            debugfile.write(' \n \n start doc \n \n ' + str(doc) +' \n \n end doc \n \n' )
 
-    # function for the collecting tags
-    paper_tag, cite_tag, link_tag, author_tag, maxoo = get_tags(doc)
-    print('paper_tag ' + str(len(paper_tag)) +   '    cite_tag ' + str(len(cite_tag)) + '       link_tag ' + str(len(link_tag)) + '    author_tag ' + str(len(author_tag)) + '     maxoo ' + str(maxoo))
 
-    # paper title from each page
-    papername = get_papertitle(paper_tag)
+        # function for the collecting tags
+        paper_tag, cite_tag, link_tag, author_tag, maxoo = get_tags(doc)
+        print('paper_tag ' + str(len(paper_tag)) +   '    cite_tag ' + str(len(cite_tag)) + '       link_tag ' + str(len(link_tag)) + '    author_tag ' + str(len(author_tag)) + '     maxoo ' + str(maxoo))
+        with open('debugging1', 'a+') as debugfile:
+            debugfile.write(' \n \n start tag \n \n ' + str(paper_tag)  + '\n' + str(cite_tag)     + '\n' +   str(link_tag) + '\n' +   str(author_tag)  +   ' \n \n end tag \n \n')
+        # paper title from each page
+        papername = get_papertitle(paper_tag)
 
-    # year , author , publication of the paper
-    year, publication, author = get_author_year_publi_info(author_tag)
+        # year , author , publication of the paper
+        year, publication, author = get_author_year_publi_info(author_tag)
 
-    # cite count of the paper
-    cite = get_citecount(cite_tag)
+        # cite count of the paper
+        cite = get_citecount(cite_tag)
 
-    # url of the paper
-    link = get_link(link_tag)
+        # url of the paper
+        link = get_link(link_tag)
 
-    # add in paper repo dict
-    final = add_in_paper_repo(papername, year, author, cite, publication, link, maxoo)
-
-    # use sleep to avoid status code 429
-    sleep(100)
-
-with open('google_scholar.csv','a+') as filecsv:
-    final.to_csv(filecsv)
+        # add in paper repo dict
+        final = add_in_paper_repo(papername, year, author, cite, publication, link, maxoo)
+        with open('google_scholar.csv', 'a+') as filecsv:
+            final.to_csv(filecsv)
+        sleep(100)
+    except:
+        pass
