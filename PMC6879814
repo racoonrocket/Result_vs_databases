@@ -1,0 +1,96 @@
+CD6†	PolyPhen2/SIFT	rs11230562	rs17824933	15574	0.943	multiple sclerosis	4.00E-09	1.18	19525953	high
+CD6†	Provean/SIFT	rs2074233	rs17824933	24852	0.836	multiple sclerosis	4.00E-09	1.18	19525953	high
+EVI5†	Provean/SIFT	rs11808092	rs11808092	0	1	Epstein-Barr virus nuclear antigen 1 IgG levels or multiple sclerosis	2.00E-08	0	26819262	high
+DKKL1†	Provean/SIFT	rs2303759	rs2303759	0	1	multiple sclerosis	5.00E-09	1.11	21833088	high
+HNRNPA1†	ClinVar	—	—	—	—	—	—	—	—	high
+NR1H3†	ClinVar	—	—	—	—	—	—	—	—	high
+FAM69A	tibial nerve eQTL	3	rs6604026	—	—	multiple sclerosis	8.00E-06	1.15	17660530	high
+HLA-DRB1*	tibial nerve eQTL	rs9270980	rs9271640	18291	0.861	oligoclonal band status in multiple sclerosis	5.00E-12	1.56	25616667	high
+HLA-DRB5*	tibial nerve / spleen eQTL	18	rs9271640	—	—	oligoclonal band status in multiple sclerosis	5.00E-12	1.56	25616667	high
+KIF1B‡	tibial nerve eQTL	30	rs10492972	—	—	multiple sclerosis	3.00E-10	1.34	18997785	high
+LINC00886	tibial nerve / spleen eQTL	rs867436	rs12638253	91510	0.846	multiple sclerosis (severity)	2.00E-06	0	19010793	high
+METTL15P1	tibial nerve eQTL	7	rs12638253	—	—	multiple sclerosis (severity)	2.00E-06	0	19010793	high
+NAP1L4P1	tibial nerve eQTL	45	rs12025416	—	—	multiple sclerosis	1.00E-07	1.45	21244703	high
+PCDHGC3	tibial nerve eQTL	29	rs1062158	—	—	multiple sclerosis	2.00E-06	1.08	21833088	high
+RGS14	tibial nerve eQTL	2	rs4075958	—	—	multiple sclerosis	5.00E-07	1.09	21833088	high
+RP11–10L12.2	tibial nerve eQTL	29	rs228614	—	—	multiple sclerosis	1.00E-07	1.09	21833088	high
+RPL37	tibial nerve eQTL	47	rs6896969	—	—	multiple sclerosis	2.00E-07	1.1	19525953	high
+TIPARP	tibial nerve eQTL	rs2893226	rs12638253	101871	0.875	multiple sclerosis (severity)	2.00E-06	0	19010793	high
+TMEM87B	tibial nerve eQTL	rs6896969	rs17174870	148190	0.821	multiple sclerosis	1.00E-08	1.11	21833088	high
+TRIM2	tibial nerve eQTL	rs6879489	rs12644284	0	1	multiple sclerosis	4.00E-06	2.04	21654844	high
+FAM213B	whole blood eQTL	38	rs4648356	—	—	multiple sclerosis	1.00E-14	1.14	21833088	high
+FCRL3	whole blood / spleen eQTL	4	rs3761959	—	—	multiple sclerosis	3.00E-06	1.08	21833088	high
+MERTK	whole blood eQTL	4	rs17174870	—	—	multiple sclerosis	1.00E-08	1.11	21833088	high
+MMEL1	whole blood / spleen eQTL	12	rs4648356	—	—	multiple sclerosis	1.00E-14	1.14	21833088	high
+AHI1	spleen eQTL	14	rs11154801	—	—	multiple sclerosis	1.00E-13	1.13	21833088	high
+TBKBP1	cis eQTL 1b	rs4794048	rs8070463	5763	0.837	multiple sclerosis	1.00E-07	1.15	22190364	high
+DEXI	cis eQTL 1b	rs6498169	rs6498169	0	1	multiple sclerosis	4.00E-06	1.14	17660530	high
+SEZ6L2	cis eQTL 1b	rs10204	rs34286592	6058	0.929	multiple sclerosis	5.00E-07	1.16	27386562	high
+PGD	cis eQTL 1b	rs3737155	rs10492972	106667	1	multiple sclerosis	3.00E-10	1.34	18997785	high
+CLTB	cis eQTL 1b	rs11746443	rs4075958	13794	0.927	multiple sclerosis	5.00E-07	1.09	21833088	high
+RMND5B	cis eQTL 1b	rs11746443	rs4075958	13794	0.927	multiple sclerosis	5.00E-07	1.09	21833088	high
+TMED9	cis eQTL 1b	rs11746443	rs4075958	13794	0.927	multiple sclerosis	5.00E-07	1.09	21833088	high
+LRRC34	PolyPhen2	rs10936600	rs10936599	22484	0.956	multiple sclerosis	7.00E-07	1.1	21833088	medium
+MPV17L2	Provean	rs874628	rs874628	0	1	multiple sclerosis	1.00E-08	1.11	21833088	medium
+IKZF2	RegDB 1b TF	rs4794048	rs8070463	5763	0.837	multiple sclerosis	1.00E-07	1.15	22190364	medium
+HES1	RegDB 1b TF	rs6498169	rs6498169	0	1	multiple sclerosis	4.00E-06	1.14	17660530	medium
+TGIF1	RegDB 1b TF	rs10204	rs34286592	6058	0.929	multiple sclerosis	5.00E-07	1.16	27386562	medium
+RGS1	cis eQTL 1d	rs2816305	rs1323292	16752	1	multiple sclerosis	2.00E-08	1.12	21833088	medium
+CDK2AP1	cis eQTL 1d	rs655293	rs1790100	128320	0.894	multiple sclerosis	7.00E-07	1.11	19525953	medium
+CD40	cis eQTL 1d	rs2425752	rs2425752	0	1	multiple sclerosis	5.00E-10	1.11	21833088	medium
+MVP	cis eQTL 1d	rs9938630	rs34286592	16628	1	multiple sclerosis	5.00E-07	1.16	27386562	medium
+PRRT2	cis eQTL 1d	rs9938630	rs34286592	16628	1	multiple sclerosis	5.00E-07	1.16	27386562	medium
+CDC37	cis eQTL 1d	rs12978984	rs8112449	827	1	multiple sclerosis	1.00E-06	1.08	21833088	medium
+GABPA	RegDB 2a TF	rs56235845	rs4075958	13528	0.964	multiple sclerosis	5.00E-07	1.09	21833088	medium
+CTCF	RegDB 2a TF	rs7986874	rs17594362	10364	0.887	multiple sclerosis	4.00E-06	1.11	21833088	medium
+EGR1	RegDB 2a TF	rs12889006	rs4902647	6372	0.967	multiple sclerosis	9.00E-12	1.11	21833088	medium
+YY1	RegDB 2a TF	rs11878602	rs10411936	6778	1	multiple sclerosis	2.00E-07	1.16	22190364	medium
+GFI1‡	RegDB 2a TF	rs61784580	rs10492972	82616	0.802	multiple sclerosis	3.00E-10	1.34	18997785	medium
+SPI1	RegDB 2a TF	rs2984920	rs1323292	3774	1	multiple sclerosis	2.00E-08	1.12	21833088	medium
+CLOCK	RegDB 2a TF	rs12624433	rs2425752	21267	1	multiple sclerosis	5.00E-10	1.11	21833088	medium
+ARNTL	RegDB 2a TF	rs12624433	rs2425752	21267	1	multiple sclerosis	5.00E-10	1.11	21833088	medium
+BACH1	RegDB 2a TF	rs79140028	rs6984045	284668	1	multiple sclerosis	2.00E-06	1.59	19525955	medium
+ASAP1	RegDB 2a SNP in intron of gene	rs79140028	rs6984045	284668	1	multiple sclerosis	2.00E-06	1.59	19525955	low
+CDIPT-AS1	RegDB 1b SNP in intron of gene	rs10204	rs34286592	6058	0.929	multiple sclerosis	5.00E-07	1.16	27386562	low
+CLEC16A	RegDB 1b SNP in intron of gene	rs6498169	rs6498169	0	1	multiple sclerosis	4.00E-06	1.14	17660530	low
+CLECL1	RegDB 2a SNP in intron of gene	rs10492165	rs10466829	9870	0.935	multiple sclerosis	1.00E-08	1.09	21833088	low
+EPS15L1	RegDB 2a SNP in intron of gene	rs11878602	rs10411936	6778	1	multiple sclerosis	2.00E-07	1.16	22190364	low
+KPNB1	RegDB 1b SNP in intron of gene	rs4794048	rs8070463	5763	0.837	multiple sclerosis	1.00E-07	1.15	22190364	low
+SLC12A5	RegDB 2a SNP in intron of gene	rs12624433	rs2425752	21267	1	multiple sclerosis	5.00E-10	1.11	21833088	low
+AFF3	MSSS association	—	rs12471490	—	—	MSSS association	3.15 × 10−5	0.56	21654844	low
+ANAPC1	MSSS association	—	rs4848821	—	—	MSSS association	1.44 × 10−5	0.8	21654844	low
+ASXL2	MSSS association	—	rs10178552	—	—	MSSS association	4.76 × 10−5	−0.41	21654844	low
+CDH13	MSSS association	—	rs8047176	—	—	MSSS association	6.90 × 10−5	1.58	21654844	low
+CDHR3	MSSS association	—	rs193806	—	—	MSSS association	5.53 × 10−5	0.63	21654844	low
+CRTAC1	MSSS association	—	rs11189446	—	—	MSSS association	2.05 × 10−5	0.54	21654844	low
+CTNND2	MSSS association	—	rs11750073	—	—	MSSS association	6.49 × 10−5	1.99	21654844	low
+FHIT	MSSS association	—	rs1735457	—	—	MSSS association	1.55 × 10−5	2.85	21654844	low
+GPC5	MSSS association	—	rs17430373	—	—	MSSS association	3.12 × 10−5	4.19	21654844	low
+GPR158	MSSS association	—	rs7071606	—	—	MSSS association	4.25 × 10−5	3.59	21654844	low
+GRIN2A	MSSS association	—	rs1448239	—	—	MSSS association	2.99 × 10−5	1.65	21654844	low
+HACE1	MSSS association	—	rs7741733	—	—	MSSS association	1.97 × 10−5	1.69	21654844	low
+IFNA10	MSSS association	—	rs10811505	—	—	MSSS association	2.56 × 10−5	−0.50	21654844	low
+IFNA16	MSSS association	—	rs1820314	—	—	MSSS association	2.13 × 10−5	−0.50	21654844	low
+IFNA17	MSSS association	—	rs9298814	—	—	MSSS association	2.30 × 10−5	−0.50	21654844	low
+JAZF1	MSSS association	—	rs735664	—	—	MSSS association	5.97 × 10−5	1.65	21654844	low
+KCNMA1	MSSS association	—	rs7087337	—	—	MSSS association	7.47 × 10−5	2	21654844	low
+KLHL9	MSSS association	—	rs8729	—	—	MSSS association	3.85 × 10−5	−0.49	21654844	low
+LOC100289506	MSSS association	—	rs7789940	—	—	MSSS association	6.04 × 10−6	1.87	21654844	low
+MICB	MSSS association	—	rs2855814	—	—	MSSS association	2.09 × 10−5	0.4	21654844	low
+NKD1	MSSS association	—	rs12596811	—	—	MSSS association	1.80 × 10−5	2.43	21654844	low
+NOS1AP	MSSS association	—	rs12403202	—	—	MSSS association	7.83 × 10−5	0.63	21654844	low
+NPSR1	MSSS association	—	rs17170015	—	—	MSSS association	4.65 × 10−5	−0.48	21654844	low
+OR6T1	MSSS association	—	rs1476203	—	—	MSSS association	4.43 × 10−5	0.65	21654844	low
+OR8D4	MSSS association	—	rs7942047	—	—	MSSS association	8.68 × 10−5	0.67	21654844	low
+PDZD2	MSSS association	—	rs161522	—	—	MSSS association	4.35 × 10−5	1.62	21654844	low
+PLCG2	MSSS association	—	rs7185362	—	—	MSSS association	4.48 × 10−5	1.7	21654844	low
+POPDC3	MSSS association	—	rs11962089	—	—	MSSS association	8.33 × 10−6	−0.69	21654844	low
+PPARGC1A	MSSS association	—	rs8192678	—	—	MSSS association	5.94 × 10−5	1.72	21654844	low
+PRDM2	MSSS association	—	rs4344326	—	—	MSSS association	5.82 × 10−5	4.26	21654844	low
+PSD3	MSSS association	—	rs7015570	—	—	MSSS association	3.76 × 10−5	−0.60	21654844	low
+PTPRD	MSSS association	—	rs10977017	—	—	MSSS association	1.02 × 10−5	1.67	21654844	low
+RBM20	MSSS association	—	rs1832745	—	—	MSSS association	2.02 × 10−5	−0.45	21654844	low
+RELN	MSSS association	—	rs10487166	—	—	MSSS association	5.33 × 10−5	0.45	21654844	low
+STX8	MSSS association	—	rs7219526	—	—	MSSS association	7.14 × 10−5	0.64	21654844	low
+YWHAG	MSSS association	—	rs17149161	—	—	MSSS association	5.83 × 10−6	1.87	21654844	low
+ZFPM2	MSSS association
